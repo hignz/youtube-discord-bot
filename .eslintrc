@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-console": "off",
+    "import/order": "off",
+    "space-before-function-paren": ["error", "always"],
+    "no-restricted-syntax": "off",
+    "no-continue": "off",
+    "no-param-reassign": "off"
+  }
+}
